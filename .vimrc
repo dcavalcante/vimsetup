@@ -5,7 +5,6 @@ source ~/.vim/keymaps.vimrc
 " source ~/.vim/functions.vimrc
 
 
-
 " Obvious stuff
 set history=700
 set encoding=utf8 " Standard encoding
